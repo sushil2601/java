@@ -1,0 +1,4 @@
+1. Reverse an array
+2. Count occurance of a particular number in the array
+3. Print sum of diagonal elements of a square matrix
+4. Transpose square matrix without using second matrix

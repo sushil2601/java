@@ -1,0 +1,12 @@
+classpath
+---------
+is an environmental variable which specifies path for class files.
+Classpath can be set as follows:
+
+set classpath=path1;path2;path3;
+
+By default, current folder is treated as classpath.
+
+If classpath is changes, then classpath can be changed to current folder as follows:
+
+set classpath=.

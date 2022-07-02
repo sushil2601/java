@@ -1,0 +1,105 @@
+Check whether a number is prime or not
+Print all prime numbers between 1 to 100
+Print first 100 prime numbers
+------------------------------------------
+
+Print sum of digits of a number (number >0)
+e.g.
+
+34152
+3+4+1+5+2=15
+
+-------------------
+
+Count digits of a number
+
+Check whether a number is armstrong or not?
+e.g. 153 is armstrong
+
+1+125+27=153
+----------------
+
+*
+**
+***
+****
+*****
+---------
+
+1
+12
+123
+1234
+12345
+
+---------
+
+1
+22
+333
+4444
+55555
+
+------------
+
+    *
+   **
+  ***
+ ****
+*****
+
+------------
+
+    *
+   ***
+  *****
+ *******
+*********
+-------------
+
+Print reverse of a number
+
+1!+2!+3!+4!....n!
+
+1!-2!+3!-4!....n!
+
+Fibonacci series (first 10 numbers)
+
+1
+01
+101
+0101
+10101
+
+Print twin prime numbers between 1 to 100
+
+3 5
+5 7
+11 13
+17 19
+
+------------------------------
+
+http://www.realinfotech.in/java/jp20182.zip
+
+--------------------------------------
+
+umesh.kalia@realinfotech.in
+
+9417146610
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

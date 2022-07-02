@@ -1,0 +1,11 @@
+class abc
+{
+public static void main(String s[])
+{
+
+student s1=new student(100,"aman",18,12300,65.2f);
+s1.display();
+
+
+}
+}

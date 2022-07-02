@@ -1,0 +1,16 @@
+1. Input a number and check whether it is prime or not
+2. Print first 100 prime numbers
+3. Evaluate following expression:
+	1!+2!+3!+4!....n!
+4. Print sum of digits of a number
+5. Print following pattern
+	
+    *
+   ***
+  *****
+ *******
+*********
+
+
+
+umesh.kalia@realinfotech.in

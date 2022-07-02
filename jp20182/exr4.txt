@@ -1,0 +1,9 @@
+Create a class complexnumber with data members real & imaginary.
+Write suitable constructors & functions to initialize and show data members.
+Write functions to add and multiply complex numbers.
+Complex number should be printed in following format
+
+3+i4
+-3+i4
+-3-i4
+3-i4

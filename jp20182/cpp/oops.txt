@@ -1,0 +1,56 @@
+OOPS
+----
+
+Class is a specification which specifies that how its objects will look like and how they will behave.
+
+Object is an instance of class
+
+--------------------------------------------------------------
+
+Principles of OOPS
+------------------
+1. Encapsulation is  process of binding data and code together in a class.
+
+2. Inheritance is process of creating new classes by extending existing classes with new features.
+
+  Marker "is a" Pen
+  Exhaust fan is a fan
+  Mobile is a phone
+  Smart phone is a mobile
+  Student is a person
+  
+3. Polymorphism
+
+One name multiple implementations
+
+
+4. Abstraction
+
+Managing complexities of object by provising simple interface to the user.
+
+Data abstraction says that data should be made hidden from the user and should be accessed through function.
+
+-------------------------------------------------
+
+If class has more than one function with same name and different set of arguments then it is known as function overloading.
+In case of function overloading, function call is invoked based upon arguments.
+
+Function overloading is an implementation of polymorphism.
+------------------------
+
+Constructor
+-----------
+1. is called when object is created.
+2. has same name as that of class
+3. may or may not have arguments. Constructor without argument is known as default constructor and with arguments is known as parameterrized constructor.
+4. constructor does not have any return type not even void.
+5. purpose of constructor is to initialize object when it created.
+6. if a class has multiple constructors then it is known as constructor overloading.
+
+
+
+
+
+
+
+

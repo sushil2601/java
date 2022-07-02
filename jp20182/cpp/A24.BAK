@@ -1,0 +1,26 @@
+
+#include<iostream.h>
+#include<conio.h>
+
+void abc(int[]);
+
+void main()
+{
+clrscr();
+
+int a[]={1,2,3,4,5};
+
+abc(a);
+
+for(int i=0;i<5;i++)
+cout<<a[i]<<"\t";
+
+
+getch();
+}
+
+void abc(int x[])
+{
+	for(int i=0;i<5;i++)
+	  x[i]*=2;
+}

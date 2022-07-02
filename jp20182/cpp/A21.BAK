@@ -1,0 +1,28 @@
+#include<iostream.h>
+#include<conio.h>
+
+void stars(int);
+
+void main()
+{
+clrscr();
+
+stars(5);
+cout<<"Hello"<<endl;
+stars(8);
+cout<<"World"<<endl;
+stars(10);
+cout<<"Test"<<endl;
+stars(3);
+
+getch();
+
+}
+
+void stars(int n)
+{
+for(int i=1;i<=n;i++)
+cout<<"#";
+
+cout<<endl;
+}

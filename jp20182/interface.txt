@@ -1,0 +1,10 @@
+Interface
+---------
+is an essentially abstract class
+
+All data members of interface are essentially final.
+All function members of interface are essentially abstract.
+
+Interface can be inherited by any class using "implements" keyword
+
+More than one interfaces may be inherited by a class, so multiple inheritance is supported through interfaces in Java.

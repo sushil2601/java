@@ -1,0 +1,24 @@
+#include<iostream.h>
+#include<conio.h>
+
+void main()
+{
+clrscr();
+int n;
+cout<<"Input limit: ";
+cin>>n;
+
+int x[n],i;
+
+cout<<"Input array: ";
+for(i=0;i<n;i++)
+cin>>x[i];
+
+cout<<"Array is:\n ";
+for(i=0;i<n;i++)
+cout<<x[i]<<"\t";
+
+
+getch();
+
+}

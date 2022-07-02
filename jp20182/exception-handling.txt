@@ -1,0 +1,11 @@
+Exception is runtime error thrown by JVM.
+
+Whenever some exception occurs, JVM generates an object of Exception or its sub class and throws a message. This message is not user friendly message and can only be understood by developer.
+Also, when exception occurs, program terminates immidiately.
+
+So to prevent termination of program & to generate user friendly message, we need to handle exception.
+
+Exception handling is done by enclosing statements in try block followed by catch block.
+
+So, whenever exception will occur in statements enclosed in try block, control will jump to respective catch block and program will not terminate.
+

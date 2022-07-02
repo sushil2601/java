@@ -1,0 +1,30 @@
+ String yearx = year.getText();
+              if(yearx.trim().length()==0 )
+              {
+                  JOptionPane.showMessageDialog(this, "Please Fill Year");
+                  return;
+              }
+            
+            String empid = eid.getText();
+            
+            String monthname[]={"jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"};
+             String mn = "";
+            int monthindex = month.getSelectedIndex();
+            System.out.println(monthindex);
+            
+            if (monthindex < 9) {
+                mn = "0" + String.valueOf(monthindex);
+            } else {
+                mn = String.valueOf(monthindex);
+            }
+
+            String startdate = "01-" + monthname[monthindex] + "-" + yearx;
+
+            GregorianCalendar c = new GregorianCalendar(Integer.parseInt(yearx), monthindex, 1);
+            int maxdays = c.getActualMaximum(Calendar.DATE);
+            
+            
+            String enddate = maxdays + "-" + monthname[monthindex] + "-" + yearx;
+
+            System.out.println("SD :"+startdate);
+            System.out.println("ED :"+enddate);

@@ -1,0 +1,16 @@
+Packages are used to classify class files in JAVA.
+
+In order to make class file member of a package, we must write following statement on the top of JAVA file
+
+package pkg1;
+
+where pkg1 is name of the package
+
+Once class becomes member of the package then class can only be accessed with package name.
+
+e.g. if class name is test1 and package name is pkg1 then class file must be accessed as follows
+
+pkg1.test1
+
+When we try to access class belonged to a package then JAVA will try to find folder of same name as that of package at classpath and then find class file in the folder.
+

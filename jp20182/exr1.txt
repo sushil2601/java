@@ -1,0 +1,16 @@
+Write a program to print following output:
+
+class xyz
+{
+
+public static void main(String s[])
+{
+System.out.println("This is \"my\" world\n");
+System.out.println("This is \\new world");
+}
+
+}
+---------------------
+
+Complete reference by Herbert Schieldt
+-----------------------------------------

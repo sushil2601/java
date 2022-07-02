@@ -1,0 +1,24 @@
+Program1
+--------
+create a class student with following data members:
+roll,name,marks
+Write suitable constructors & functions to initialize and show data members.
+Print result of each student as well overall pass/fail count for whole class.
+Assume student is pass if he/she secures >=40 marks
+
+Program2
+--------
+Write a class BankAccount with following data members:
+accountno
+name
+balance
+
+Write only one parameterized constructor to initialize accountno and name with given values and balance with 5000.
+
+Write functions to withdraw, deposit and show account details with latest balance.
+
+Make sure to maintain minimum balance of Rs. 5000/-
+
+
+
+

@@ -1,0 +1,17 @@
+Abstract Class
+--------------
+1. Data member may or may not be final
+2. Member functions may or may not be abstract.
+3. Member functions are NOT by default public
+4. inherited by other classes using "extends" keyword
+5. Multiple inheritance is not supported by abstract classes
+6. may or may not have constructors
+
+Interface
+---------
+1. Data members are always final
+2. Member functions are always abstract.
+3. member functions are by default public
+4. inherited by other classes using "implements" keyword
+5. Multiple inheritance is supported by interfaces
+6. Can never have constructors

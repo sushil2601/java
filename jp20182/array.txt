@@ -1,0 +1,12 @@
+Array in Java
+-------------
+
+1) Array is always dynamic or allocated at runtime.
+2) Array may be of Zero Length.
+3) Array elements are not initialized with Garbage values by default. Array of numeric data is always initialized with ZERO and Array of objects is always initialized with NULL, by default.
+
+
+4) Array is treated as an Object which has an additional property "length" which stores size of array.
+
+5) If array is tried to be accessed outside its range, a runtime error "ArrayIndexOutOfBoundsException" is generated.
+ 

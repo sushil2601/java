@@ -1,0 +1,10 @@
+Exceptions are of two types
+---------------------------
+
+1. Unchecked exceptions are those exception which may or may not be handled. If we don't handle such exceptions, compiler will not generate any error.
+
+e.g. ArithmeticException, ArrayIndexOutOfBoundsException etc.
+
+2. Checked exceptions are those exception which MUST be handled otherwise compiler will generate error.
+
+e.g. ClassNotFoundException
